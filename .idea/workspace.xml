@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57bc7142-f5d1-458f-852a-8839e5f1bfbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647521122962</updated>
-      <workItem from="1647521125516" duration="47000" />
+      <workItem from="1647521125516" duration="351000" />
     </task>
     <servers />
   </component>
@@ -74,5 +74,9 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="1096" y="264" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1647521174037" />
+    <state x="1103" y="270" key="search.everywhere.popup" timestamp="1647521423972">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="270" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1647521423972" />
   </component>
 </project>
