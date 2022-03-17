@@ -1,2 +1,0 @@
-#hello
-// Oh hello there
