@@ -13,7 +13,7 @@
         <div class="proj"><h1><a target="_blank" href="https://github.com/AncientEmperor/firstproject">project Git</a></h1></div>
     <div><h3><a href="index.html">Главная</a></h3></div>
     </header>
-    <form action="#" method="post" enctype="multipart/form-data">
+   <div class="regForm"> <form action="#" method="post" enctype="multipart/form-data">
         <div>
             <p>Логин *</p>
             <input placeholder="Логин" tabindex="1" name="username" type="text">
@@ -22,16 +22,22 @@
             <p>Пароль *</p>
             <input placeholder="Пароль" tabindex="2" name="userpass" type="password">
         </div>
+       <div>
+           <p>E-mail *</p>
+           <input tabindex="3" name="email" type="email">
+       </div>
         <div>
             <p>Телефон</p>
             <input tabindex="3" name="userphone" type="tel">
         </div>
         <div>
             <p>Пол</p>
-            <input checked type="radio" name="gender" value="male"> Мужской
+            <div class="radio"> <input checked type="radio" name="gender" value="male"> Мужской
+            </div>
         </div>
         <div>
-            <input type="radio" name="gender" value="female"> Женский
+            <div class="radio"> <input type="radio" name="gender" value="female"> Женский
+            </div>
         </div>
         <div>
             <p>Аватар</p>
@@ -41,15 +47,14 @@
             <p>О себе</p>
             <textarea name="aboutself"></textarea>
         </div>
+
         <div>
             <p>Уровень заработка</p>
+        </div>
+        <div class="numlist">
             <input checked type="checkbox" name="byc" value="yes"> Велосипед (студент)
-        </div>
-        <div>
-            <input type="checkbox" name="veh" value="yes"> Автомобиль (работяга)
-        </div>
-        <div>
-            <input disabled type="checkbox" name="kvart" value="yes"> Квартира (высший работяга)
+            <br> <input type="checkbox" name="veh" value="yes"> Автомобиль (работяга)
+            <br> <input disabled type="checkbox" name="kvart" value="yes"> Квартира (высший работяга)
         </div>
         <div>
             <p>Действие</p>
@@ -57,7 +62,7 @@
             <button type="reset">Отмена</button>
         </div>
 
-    </form>
+    </form></div>
 
     </body>
 </html>

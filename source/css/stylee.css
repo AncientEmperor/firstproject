@@ -54,3 +54,22 @@ body {
     background: rgba(255, 255, 255, 0.6);
     max-width: min-content;
 }
+.regForm{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 15em;
+    background: rgba(255, 255, 255, 0.6);
+}
+.numlist{
+    font-size: 16px;
+    margin-left: 10px;
+    text-align: left;
+}
+.radio{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
