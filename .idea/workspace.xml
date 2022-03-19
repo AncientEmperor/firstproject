@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57bc7142-f5d1-458f-852a-8839e5f1bfbf" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/source/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/style.css" afterDir="false" />
+>>>>>>> dev
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
       <updated>1647521122962</updated>
       <workItem from="1647521125516" duration="351000" />
       <workItem from="1647521744519" duration="3635000" />
-      <workItem from="1647669904601" duration="284000" />
+      <workItem from="1647669904601" duration="1964000" />
     </task>
     <servers />
   </component>
@@ -78,6 +82,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="1172" y="158" width="697" height="1026" key="dock-window-1/0.40.1920.1040@0.40.1920.1040" timestamp="1647525143989" />
+    <state x="667" y="159" width="585" height="801" key="find.popup" timestamp="1647670212263">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="667" y="159" width="585" height="801" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1647670212263" />
     <state x="1096" y="264" key="run.anything.popup" timestamp="1647521174037">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
